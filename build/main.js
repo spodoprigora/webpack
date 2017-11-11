@@ -71,7 +71,7 @@
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__menu__ = __webpack_require__(1);
 
-const menu = Object(__WEBPACK_IMPORTED_MODULE_0__menu__["a" /* default */])(['Главная', 'Обо мне', 'Портфолио'], 'menu');
+const menu = Object(__WEBPACK_IMPORTED_MODULE_0__menu__["a" /* default */])(['Главная', 'Обо мне', 'Портфолио1'], 'menu');
 document.body.appendChild(menu)
 
 /***/ }),
